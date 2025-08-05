@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # 검색 키워드
-keyword = "인공지능"
+keyword = "AI"
 url = f"https://search.naver.com/search.naver?where=news&query={keyword}"
 
 # 사용자 에이전트 설정 (크롤링 차단 방지)
