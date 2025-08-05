@@ -1,4 +1,5 @@
 #pip install googletrans==4.0.0-rc1
+#단어 등록, 퀴즈, 종료
 import googletrans
 translator = googletrans.Translator()
 
